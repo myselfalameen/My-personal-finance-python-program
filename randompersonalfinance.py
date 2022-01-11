@@ -71,3 +71,6 @@ emrgyf=e*0.7
 print("emergencyfund",emrgyf)
 svemrg=0.10*svpm
 print("savings for emergency fund",svemrg)
+
+ttlannum=0.55*12*svpm
+print("minimum total annual savings per year is",ttlannum)
